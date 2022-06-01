@@ -1,9 +1,9 @@
-#Introduction
+# Introduction
 Hello everyone, my name is Alejandro Martinez. My goal is to become a frontend
 web developer to, someday, be a part of an amazing team and build awesome
 projects or web applications.
 
-##Interests
+## Interests
 I'm interested in figuring out how to effectively apply the coding languages I'm learning so
 that I can be a productive part of a team.
 
